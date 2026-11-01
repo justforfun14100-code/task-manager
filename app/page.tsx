@@ -3,7 +3,7 @@ export default function Home() {
     <main className="min-h-screen bg-gray-100 p-10">
       <div className="mx-auto max-w-4xl">
         <h1 className="mb-6 text-3xl font-bold">
-          Task Manager
+  Task Manager - Developer A
         </h1>
 
         <div className="rounded-lg bg-white p-6 shadow">
